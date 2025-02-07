@@ -26,6 +26,7 @@
     "js-tiktoken": "^1.0.17",
     "lodash-es": "^4.17.21",
     "p-limit": "^6.2.0",
+    "pdfkit": "^0.16.0",
     "zod": "^3.24.1"
   },
   "engines": {
